@@ -1,0 +1,3 @@
+The evaluation involved three machine learning algorithms: Support Vector Machine (SVM), Decision Tree, and Random Forest. The SVM algorithm demonstrated severe overfitting on the dataset, resulting in subpar performance. While the Decision Tree performed better than SVM, it still yielded lower accuracy and other metric scores compared to Random Forest.
+
+Random Forest, being an ensemble technique that combines multiple Decision Trees, emerged as the preferred choice. It effectively addressed the overfitting issue observed with the individual Decision Tree model. Despite some overfitting in the Random Forest model, it delivered the best overall performance on the dataset. Consequently, the decision was made to adopt Random Forest as the final model for the given dataset.
